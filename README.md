@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8313472&assignment_repo_type=AssignmentRepo)
 # A (very) quick and (very) dirty introduction to the UNIX command line
 
 This class is not about the UNIX environment and the UNIX command line[^1]—we have another class for that—but knowing how a command line works and what the components of it are is an essential skill for any serious use of computers in a scientific setting. Textual interfaces where you can combine different tools in a consistent way has time and time again proven to be a more flexible and versatile than the graphical user interfaces you might be familiar with from desktop computing, and the UNIX command line provides a powerful framework for this, based on a few simple ideas.
